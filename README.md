@@ -7,7 +7,7 @@
  
  
  
- [Base de datos equipo 3 ](https://docs.google.com/document/d/1uPyFid-UUNQlkPw6_Mv5NUYOayTgxyPPEgTNIuAwAn8/edit#)
+ [Base de datos equipo 3 ](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Ej1_BasesDatos_Equipo_3.pdf)
 
  
  ## Fase II
