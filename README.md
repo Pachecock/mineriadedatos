@@ -10,6 +10,12 @@
  [Base de datos equipo 3 ](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Ej1_BasesDatos_Equipo_3.pdf)
 
  
+
+
+
+
+ [python basico  ](http://localhost:8889/notebooks/python.ipynb)
+
  ## Fase II
   
  
