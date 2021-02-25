@@ -14,7 +14,7 @@
 
 
 
- [python basico  ](http://localhost:8889/notebooks/python.ipynb)
+ [python basico  ](https://github.com/Pachecock/mineriadedatos/blob/main/PythonBasico_1583211.ipynb)
 
  ## Fase II
   
