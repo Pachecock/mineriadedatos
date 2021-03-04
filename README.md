@@ -15,6 +15,12 @@
 
 
  [python basico  ](https://github.com/Pachecock/mineriadedatos/blob/main/PythonBasico_1583211.ipynb)
+ 
+ 
+ 
+ 
+ [Avance pia  ](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Avance1_PIA_Equipo3.ipynb)
+ 
 
  ## Fase II
   
