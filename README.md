@@ -20,6 +20,12 @@
  
  
  [Avance pia  ](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Avance1_PIA_Equipo3.ipynb)
+
+
+
+
+  
+ [Práctica 1-Limpieza de datos](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Ej_Limpieza_Equipo3.ipynb)
  
 
  ## Fase II
