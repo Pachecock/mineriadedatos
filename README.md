@@ -28,8 +28,19 @@
  [Práctica 1-Limpieza de datos](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Ej_Limpieza_Equipo3.ipynb)
  
 
+ 
+
+
  ## Fase II
   
+
+
+[presentacion regresion bayesiana](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Presentaci%C3%B3n_Regresi%C3%B3nBayesiana_Equipo3.pdf)
+
+
+
+
+
  
  ## FaseII
 
