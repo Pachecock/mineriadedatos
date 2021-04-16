@@ -53,6 +53,12 @@
 
 
  
+ 
+ 
+ [segundo avance ](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/Visualizaci%C3%B3n_Equipo3.ipynb)
+ 
+ 
+ 
  ## FaseII
 
 
