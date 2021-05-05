@@ -65,7 +65,12 @@
   [segundo avance correcion ](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/AvancePIA_II_Grupo02_Equipo3_Correcci%C3%B3n.ipynb)
 
  
- ## FaseII
+ 
+   [final ](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/PIA_Grupo02_Equipo3.pdf)
+
+ 
+ 
+ ## FaseIII
 
 
 
