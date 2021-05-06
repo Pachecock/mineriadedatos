@@ -66,11 +66,19 @@
 
  
  
-   [final ](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/PIA_Grupo02_Equipo3.pdf)
-
+ 
  
  
  ## FaseIII
 
+
+
+  [poster ](https://nbviewer.jupyter.org/github/AnaDavila1/Mineria-de-datos-FCFM/blob/main/PIA_Grupo02_Equipo3.pdf)
+
+
+
+
+
+  [codigo](https://github.com/AnaDavila1/Mineria-de-datos-FCFM/blob/main/PIA_Equipo3_Versi%C3%B3nFinal.ipynb)
 
 
